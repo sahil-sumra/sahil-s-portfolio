@@ -1,3 +1,27 @@
+<h1 align="center">Personal portfolio</h1>
+
+<h3 align="center">    A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+</h3>
+<br>
+<br>
+<img alt="desktop" align="right" width="auto" src= "./images/desktop.png">
+     
+   <hr>
+
+   
+     
+     
+  <h2 align="center"> ➥ Live Demo    <a href="https://sahil-sumra.github.io/sahil-s-portfolio/" target="blank" align="center" >➥ click here</a>
+</h2> 
+
+  
+  ### License
+  
+  This project is **free to use** and does not contains any license.
+
+
+
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
